@@ -13,6 +13,6 @@
 - Conteúdo gerado via Designrr
 - Imagens geradas via ChatGPT e Designrr
 
-Link para o ebook: (https://github.com/Josi-coder/)
+Link para o [ebook]: (https://github.com/Josi-coder/)
 
-⌨️ com 💜 por Josi (https://github.com/Josi-coder/)
+⌨️ com 💜 por [Josi] (https://github.com/Josi-coder/)
