@@ -13,6 +13,10 @@
 - Conteúdo gerado via Designrr
 - Imagens geradas via ChatGPT e Designrr
 
-Acesso o ebook [aqui]:(https://designrr.page/?id=428842&token=1254579868&h=3026)
+</div>
+
+##Resultado
+
+Acesso o ebook [aqui](https://designrr.page/?id=428842&token=1254579868&h=3026)
 
 ⌨️ com 💜 por Josi
