@@ -15,4 +15,4 @@
 
 Link para o [ebook] (https://github.com/Josi-coder/)
 
-⌨️ com 💜 por [Josi] (https://github.com/Josi-coder/)
+⌨️ com 💜 por Josi
